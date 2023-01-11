@@ -1,13 +1,9 @@
 # Kurs-Prawa-Jazdy
 Open-source projekt do nauki prawa jazdy
 
-Oddaję do użytku przygotowany przeze mnie GUI do nauki do egzaminu na prawo jazdy. Program jest napisany w 100% w Pythonie używając bibliotak TkInter oraz TkinterVideo.
-Program obecnie znajduje się we wczesnej fazie rozwoju. Posiada on podstawowe funkcjonalności i proste GUI. Bardzo się ciesze na każdy feedback czy sugestie usprawnień. 
+Oddaję do użytku przygotowany przeze mnie GUI do nauki do egzaminu na prawo jazdy. Program jest napisany w 100% w Pythonie używając bibliotak TkInter oraz TkinterVideo. Program obecnie znajduje się we wczesnej fazie rozwoju. Posiada on podstawowe funkcjonalności i proste GUI. Bardzo się ciesze na każdy feedback czy sugestie usprawnień. 
 
-Aby program poprawnie działał należy użyć instrukcji poniżej:
-
-
-Instrukcja:
+Aby program poprawnie działał postępuj według intrukcji poniżej:
 
 Krok 1.
 Pobierz wszystkie pliki z repozytorium i wypakuj do wybranej przez siebie lokalizacji programu
@@ -26,19 +22,21 @@ Uruchom program "main.py"
 
 
 Funkcjonalność:
--Losowanie pytań
--Wyświetlanie treści pytań, wsparcia graficznego, odpowiedzi
--Inteligentna weryfikacja odpowiedzi
--Licznik punktów
--Wsparcie video #obecnie wyłączone przez kompatybilność
--Proste GUI
+1.Losowanie pytań
+2.Wyświetlanie treści pytań, wsparcia graficznego, odpowiedzi
+3.Inteligentna weryfikacja odpowiedzi
+4.Licznik punktów
+5.Wsparcie video #obecnie wyłączone przez kompatybilność
+6.Proste GUI
 
 Planowana funkcjonalność:
--Dodanie trybu egzaminu (20 pytań + ograniczony czas)
--Dodanie trybu nauki (materiały z poprawnymi odpowiedziami i wyjaśnienia)
--Zaawansowane GUI
+1.Dodanie trybu egzaminu (20 pytań + ograniczony czas)
+2.Dodanie trybu nauki (materiały z poprawnymi odpowiedziami i wyjaśnienia)
+3.Zaawansowane GUI
+
+
 
 Program obecnie prezentuje się w ten sposób:
-
+![alt text](https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_2.png)
 ![alt text](https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_1.png)
-![alt text](https://https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_2.png)
+
