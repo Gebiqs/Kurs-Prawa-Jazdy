@@ -5,13 +5,18 @@ Oddaję do użytku przygotowany przeze mnie GUI do nauki do egzaminu na prawo ja
 
 Aby program poprawnie działał postępuj według intrukcji poniżej:
 
+
 Krok 1.
 Pobierz wszystkie pliki z repozytorium i wypakuj do wybranej przez siebie lokalizacji programu
+
 Krok 3.
 Pobierz 5 paczek pod nazwami "multimedia 1-5"
+
 https://www.gov.pl/web/infrastruktura/prawo-jazdy
+
 Krok 4.
 Wypakuj pobrane multimedia do folderu "PRAWOJAZDY". 
+
 Krok 5.
 Uruchom program "main.py"
 
