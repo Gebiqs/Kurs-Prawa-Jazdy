@@ -9,7 +9,7 @@ from pathlib import Path
 start_button, restart_button,a,b,c,t,n,header,current_question,label,myLabel, score, question_number =0,0,0,0,0,0,0,0,0,0,0,0,0
 
 #wczytywanie pliku jako start
-df = pd.read_excel(f"{Path().absolute()}/PRAWOJAZDY/!pytania_plik_październik_2018 (1).xlsm".format())
+df = pd.read_excel(f"{Path().absolute()}/PRAWOJAZDY/Baza_pytań_na_egzamin_na_prawo_jazdy_22_02_2022r (1).xlsx".format())
 df = df[df['Kategorie'].str.contains('B').fillna(False)]
 df = df[~df['Media'].str.contains('.wmv').fillna(False)] #obecnie wyłączone są video przez brak kompatybilności z formatem siatki (szukane obejście)
 df = df[df['Media'].notna()]
