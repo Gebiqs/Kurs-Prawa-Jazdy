@@ -38,6 +38,5 @@ Planowana funkcjonalność:
 
 Program obecnie prezentuje się w ten sposób:
 ![alt text](https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_3.png)
-![alt text](https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_2.png)
 ![alt text](https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_1.png)
 
