@@ -38,3 +38,7 @@ Planowana funkcjonalność:
 -Dodanie trybu nauki (materiały z poprawnymi odpowiedziami i wyjaśnienia)
 -Zaawansowane GUI
 
+Program obecnie prezentuje się w ten sposób:
+
+![alt text](https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_1.png)
+![alt text](https://https://github.com/Gebiqs/Kurs-Prawa-Jazdy/blob/main/Podgl%C4%85d_2.png)
