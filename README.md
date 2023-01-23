@@ -20,7 +20,7 @@ Uruchom program "main.py"
 
 
 Funkcjonalności:
-Losowanie pytań, Wyświetlanie treści pytań, wsparcia graficznego, odpowiedzi, Inteligentna weryfikacja odpowiedzi, Licznik punktów, Wsparcie video #obecnie wyłączone przez kompatybilność, Proste GUI
+Losowanie pytań, Wyświetlanie treści pytań, wsparcia graficznego, odpowiedzi, Inteligentna weryfikacja odpowiedzi, Licznik punktów, Wsparcie video, Proste GUI
 Planowane funkcjonalności:
 Dodanie trybu egzaminu (20 pytań + ograniczony czas), Dodanie trybu nauki (materiały z poprawnymi odpowiedziami i wyjaśnienia), Zaawansowane GUI
 
